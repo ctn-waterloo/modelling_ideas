@@ -1,5 +1,7 @@
-# modelling_ideas
-Random ideas for models that could be made with nengo if anyone has time
+Nengo model ideas
+=================
+
+Random ideas for models that could be made with Nengo if anyone has time.
 
 Whenever I go to conferences, I usually stumble across a couple neat ideas that 
 would make for nice, straightforward Nengo models.  However, I pretty much
