@@ -3,7 +3,7 @@ Nengo model ideas
 
 Ideas for models that could be made with Nengo if anyone has time.
 
-This repository is keeps track of all the ideas for models that you get
+This repository keeps track of all the ideas for models that you get
 by talking to people in other labs, going to conferences or by taking long
 walks on the beach. Save them here by making an Issue, even if you don't have 
 time to implement them, so they don't get lost!
